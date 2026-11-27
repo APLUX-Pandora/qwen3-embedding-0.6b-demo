@@ -9,7 +9,11 @@ Encode queries and documents as vectors for semantic search on compatible Qualco
 
 Based on [Qwen3-Embedding-0.6B](https://huggingface.co/Qwen/Qwen3-Embedding-0.6B).
 
-**Demo recording:** reserved for a post-release recording.
+**Demo recording**
+
+https://github.com/user-attachments/assets/9d9f2d92-8622-40c4-8a8c-96d0f2985d0b
+
+On-device walkthrough on QCS8625 (16 seconds). Compares two built-in sentence similarity pairs, then runs cross-lingual semantic document search and scrolls through the ranked results.
 
 ## 1. Install
 
