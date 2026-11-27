@@ -1,0 +1,12 @@
+Qwen3-Embedding-0.6B Demo
+成都阿加犀智能科技有限公司 (APLUX)
+The prebuilt embedding SDK includes APLUX proprietary contributions under the
+Pandora Model and SDK License Agreement. See LICENSES/Pandora-Model-SDK.en.txt
+and LICENSES/Pandora-Model-SDK.zh-CN.txt.
+
+Qwen3-Embedding-0.6B is from the Qwen team and is licensed under Apache 2.0.
+Pandora Runtime is separate software distributed under Apache 2.0.
+Qualcomm QNN runtime terms and notices are in LICENSE.pdf, NOTICE.txt and QNN_NOTICE.txt
+in the bundled qnn248 directory.
+The native SDK statically links OpenSSL and uses JSON for Modern C++.
+See LICENSES/ for the corresponding license and copyright texts.

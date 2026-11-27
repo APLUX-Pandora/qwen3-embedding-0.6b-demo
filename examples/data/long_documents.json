@@ -1,0 +1,25 @@
+{
+  "query_id": "q-en-490",
+  "query": "How many general-purpose data registers does the CPU have in the 68000 family?",
+  "query_prefix": "Instruct: Given a web search query, retrieve relevant passages that answer the query\nQuery:",
+  "documents": [
+    {
+      "document_id": "doc-en-9697",
+      "title": "ASCII art",
+      "file": "ascii_art.txt",
+      "source": "https://en.wikipedia.org/wiki/ASCII_art"
+    },
+    {
+      "document_id": "doc-en-3800",
+      "title": "Motorola 68000",
+      "file": "motorola_68000.txt",
+      "source": "https://en.wikipedia.org/wiki/Motorola_68000"
+    },
+    {
+      "document_id": "doc-en-7486",
+      "title": "Computational chemistry",
+      "file": "computational_chemistry.txt",
+      "source": "https://en.wikipedia.org/wiki/Computational_chemistry"
+    }
+  ]
+}

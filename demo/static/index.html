@@ -1,0 +1,96 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Qwen3-Embedding-0.6B</title>
+  <link rel="icon" type="image/svg+xml" href="/static/pandora-mark.svg">
+  <link rel="stylesheet" href="/static/style.css">
+  <script src="/static/demo.js" defer></script>
+</head>
+<body>
+  <div class="shell">
+    <header class="topbar">
+      <h1>Qwen3-Embedding-0.6B</h1>
+      <div class="brand">
+        <img class="logo" src="/static/logo.png" alt="APLUX">
+        <span class="divider" aria-hidden="true"></span>
+        <img class="mark" src="/static/pandora-mark.svg" alt="">
+        <span class="name">Pandora</span>
+      </div>
+    </header>
+    <main>
+      <div class="session-bar">
+        <div class="tabs" role="tablist" aria-label="Demo features">
+          <button type="button" id="similarity-tab" role="tab" aria-selected="true" aria-controls="similarity">Sentence similarity</button>
+          <button type="button" id="retrieval-tab" role="tab" aria-selected="false" aria-controls="retrieval" tabindex="-1">Document search</button>
+        </div>
+        <div class="connection" aria-live="polite">
+          <span id="indicator" class="dot" aria-hidden="true"></span><span>On-device</span>
+          <span id="chip" class="connection-note"></span><span id="model-status" class="connection-note">Checking model status</span>
+        </div>
+      </div>
+      <section id="similarity" class="tab-panel" role="tabpanel" aria-labelledby="similarity-tab">
+        <div class="panel">
+          <h2>Compare two sentences</h2>
+          <p class="muted">A higher score usually means the sentences are closer in meaning.</p>
+          <div class="examples" id="similarity-examples" aria-label="Similarity examples"></div>
+          <form id="similarity-form" novalidate>
+            <div class="pair">
+              <label>First sentence<textarea id="first-sentence" rows="3" required></textarea></label>
+              <label>Second sentence<textarea id="second-sentence" rows="3" required></textarea></label>
+            </div>
+            <button class="primary" type="submit" disabled>Compute similarity</button>
+          </form>
+          <p id="similarity-error" class="error" role="alert" hidden></p>
+          <div id="similarity-result" class="result" aria-live="polite" hidden>
+            <div class="score-heading"><strong>Cosine similarity</strong><output id="similarity-score" for="first-sentence second-sentence"></output></div>
+            <meter id="similarity-bar" min="-1" max="1" value="0" aria-label="Cosine similarity"></meter>
+            <div class="scale" aria-hidden="true"><span>−1</span><span>0</span><span>1</span></div>
+          </div>
+        </div>
+      </section>
+      <section id="retrieval" class="tab-panel" role="tabpanel" aria-labelledby="retrieval-tab" hidden>
+        <div class="retrieval-layout">
+          <section class="panel" aria-labelledby="library-heading">
+            <h2 id="library-heading">Document library</h2>
+            <p id="index-status" class="muted" aria-live="polite">Loading index</p>
+            <div id="library" class="library" aria-label="Indexed documents" tabindex="0"></div>
+            <form id="document-form" class="add-document">
+              <label>Title (optional)<input id="document-title" type="text" maxlength="80"></label>
+              <label>Paste document text<textarea id="document-body" rows="3"></textarea></label>
+              <label>Or upload a UTF-8 .txt file<input id="document-file" type="file" accept=".txt,text/plain"></label>
+              <button class="primary" type="submit" disabled>Add and index</button>
+            </form>
+            <p id="document-error" class="error" role="alert" hidden></p>
+          </section>
+          <section class="panel" aria-labelledby="search-heading">
+            <h2 id="search-heading">Semantic search</h2>
+            <div id="query-examples" class="examples" aria-label="Search examples"></div>
+            <form id="search-form" novalidate>
+              <label>Search query<textarea id="query" rows="3" required></textarea></label>
+              <button class="primary" type="submit" disabled>Search</button>
+            </form>
+            <p id="search-error" class="error" role="alert" hidden></p>
+            <p id="results-status" class="muted" aria-live="polite" hidden></p>
+            <ol id="results" class="results"></ol>
+          </section>
+        </div>
+      </section>
+      <section class="panel" aria-labelledby="metrics-heading">
+        <h2 id="metrics-heading">On-device performance</h2>
+        <dl class="metrics">
+          <div><dt>Latest encoding</dt><dd id="encode-time">—</dd></div>
+          <div><dt>Input tokens</dt><dd id="input-tokens">—</dd></div>
+          <div><dt>Total indexing time</dt><dd id="index-total">—</dd></div>
+          <div><dt>Average indexing time per document</dt><dd id="index-average">—</dd></div>
+          <div><dt>Model load time</dt><dd id="load-time">—</dd></div>
+          <div><dt>First query encoding</dt><dd id="first-encode">—</dd></div>
+          <div><dt>Embedding dimensions</dt><dd id="embedding-dim">—</dd></div>
+          <div><dt>Maximum input</dt><dd id="max-input">—</dd></div>
+        </dl>
+      </section>
+    </main>
+  </div>
+</body>
+</html>

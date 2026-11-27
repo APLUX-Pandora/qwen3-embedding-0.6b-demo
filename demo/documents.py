@@ -1,0 +1,28 @@
+"""Bilingual sample library for the Web Demo."""
+
+DOCUMENTS = (
+    ("Cancel an inference request", "Click Stop to cancel the inference request that is currently running."),
+    ("Save a local copy", "Choose Export results to save the latest output as a file on your device."),
+    ("Resume a conversation", "Open a saved session from history to pick up an earlier conversation."),
+    ("下载离线地图", "出发前把目的地的离线地图下载到手机，没有网络时仍可查看路线。"),
+    ("Language settings", "Open Settings and choose a display language to translate the application's menus."),
+    ("深色外观", "在外观设置中选择深色主题，夜间阅读时界面会更柔和。"),
+    ("Keyboard shortcuts", "Press Enter in the message box to submit your request using the keyboard."),
+    ("查看诊断日志", "打开诊断面板，查看应用日志，方便定位程序运行异常。"),
+    ("Clear a conversation", "Use Clear conversation to remove the current messages and start a fresh session."),
+    ("安装更新", "通过更新入口安装最新发行版，以获取新功能和缺陷修复。"),
+    ("Help and examples", "Open the Help menu to find integration guides and runnable examples."),
+    ("调整显示缩放", "在显示设置中放大文字和图标，让小屏幕上的内容更容易看清。"),
+    ("预约自行车保养", "骑行前可到门店预约保养，技师会检查刹车、轮胎和链条。"),
+    ("Check train departures", "Look at the station departure board to confirm your platform and boarding time."),
+    ("图书馆续借", "在借阅到期前登录图书馆账号，选择续借以延长归还期限。"),
+    ("Store fresh herbs", "Wrap fresh herbs in a damp towel and refrigerate them to keep the leaves from wilting."),
+    ("办公室访客登记", "到一楼接待台出示邀请函登记，领取访客证后进入办公区。"),
+    ("Keep an emergency kit", "Set aside a flashlight, water, and spare batteries for a power outage."),
+    ("音乐会电子票", "入场时打开购票邮件中的二维码，工作人员扫码后即可放行。"),
+    ("Water indoor plants", "Check the soil with a finger and water the plant when the top layer feels dry."),
+    ("办理宠物登记", "给宠物办理登记时，需要准备身份证明和有效的疫苗接种证明。"),
+    ("Find the parcel locker", "Pick up a delivered parcel by entering the pickup code on the locker screen."),
+    ("雨天保护相机", "外出拍摄时带防雨罩和干布，避免雨水浸湿相机和镜头。"),
+    ("Measure baking ingredients", "Use a kitchen scale to weigh flour and sugar before mixing the cake batter."),
+)

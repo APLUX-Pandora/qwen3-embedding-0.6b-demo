@@ -1,0 +1,461 @@
+{
+  "query_prefix": "Instruct: Given a web search query, retrieve relevant passages that answer the query\nQuery:",
+  "languages": {
+    "zh": {
+      "query_id": "1041157#0",
+      "query": "世界上最大的平原在哪里？",
+      "passages": [
+        {
+          "document_id": "103582#3",
+          "title": "冲积平原",
+          "source": "https://zh.wikipedia.org/?curid=103582",
+          "relevant": true,
+          "text": "世界上最大的沖積平原是亞馬遜平原，乃由亞馬遜上游的泥沙堆積而成。而中國的黄淮海平原、宁夏平原和長江中下游平原亦屬這一地形。"
+        },
+        {
+          "document_id": "1181975#0",
+          "title": "纳拉伯平原",
+          "source": "https://zh.wikipedia.org/?curid=1181975",
+          "relevant": false,
+          "text": "纳拉伯平原（）是澳大利亚大澳大利亚湾以北的一块平坦、几乎没有树木、干旱的地区。它的名字来自于拉丁语（没有）和（树木）。它是世界上最大的一整块的石灰岩，面积20万平方公里。它最宽处从东到西宽1100千米，正好位于南澳大利亚州和西澳大利亚州之间。"
+        },
+        {
+          "document_id": "256472#0",
+          "title": "西西伯利亚平原",
+          "source": "https://zh.wikipedia.org/?curid=256472",
+          "relevant": false,
+          "text": "西西伯利亚平原位于亚洲西北部（俄罗斯中西部），乌拉尔山脉和叶尼塞河之间，南接哈萨克丘陵、萨彦岭，北滨喀拉海。东西宽1000—1900公里，南北长2500公里，面积274万平方公里，是世界上著名大平原之一。大部分平原排水不良，组成一些世界上最大的沼泽和洪泛区。平原内重要的城市包括：鄂木斯克，新西伯利亚和車里雅賓斯克。"
+        },
+        {
+          "document_id": "288257#1",
+          "title": "平頂山",
+          "source": "https://zh.wikipedia.org/?curid=288257",
+          "relevant": false,
+          "text": "平頂山分佈於美國西南部、西班牙、薩丁尼亞島、非洲北部和南部、阿拉伯、印度、澳洲等地，而全世界最大的平頂山是位於美國科羅拉多州西部的大平顶山（Grand Mesa）。"
+        },
+        {
+          "document_id": "34055#1",
+          "title": "高原",
+          "source": "https://zh.wikipedia.org/?curid=34055",
+          "relevant": false,
+          "text": "世界最高的高原是中国青藏高原，面积最大的高原为南極洲南极高原，但南極高原處於爭議之中，在個別國家中巴西高原也算是世界最大的高原。"
+        },
+        {
+          "document_id": "388635#0",
+          "title": "世界主要平原列表",
+          "source": "https://zh.wikipedia.org/?curid=388635",
+          "relevant": false,
+          "text": "平原是海拔较低的平坦的广大地区，海拔较高的称为高原。世界主要的平原有： 遼河平原"
+        },
+        {
+          "document_id": "47602#12",
+          "title": "湿地",
+          "source": "https://zh.wikipedia.org/?curid=47602",
+          "relevant": false,
+          "text": "在世界上最大的湿地包括亚马逊盆地和西西伯利亚平原。另一个大湿地是潘塔納爾溼地，横跨在南美洲的巴西，玻利维亚和巴拉圭，面積達2,500萬公頃。 中國研究機構見中國溼地條目。"
+        },
+        {
+          "document_id": "481#34",
+          "title": "美国",
+          "source": "https://zh.wikipedia.org/?curid=481",
+          "relevant": false,
+          "text": "在大平原西部則有高聳的洛磯山脈，從南至北將美國大陸一分為二，在科羅拉多州的最高峰到達4270米。在以前洛磯山脈還有頻繁的火山活動；如今則只剩下一個區域（怀俄明州黃石國家公園的超級火山—可能是世界上最大的火山）。 在洛磯山脈以西有一个高原内陆盆地—大盆地，该地帶有大量的高山、鹽帶平原和山谷，其间的沙漠称为大盆地沙漠，是北美最大的沙漠。內華達山脈本身也有崎嶇的峽谷。在大盆地的西南方則有低於海平線的死谷（Death Valley），那裡也是西半球最低矮的地區之一。大盆地帶北方和喀斯喀特山脈東方的則是哥伦比亚高原，有著一個大規模的火成岩區，是地球上最大的洪流玄武岩地區。而在大臉盆地帶西方的內華達山脈則有美國本土海拔最高的惠特尼山（4418米）。 由科羅拉多河貫穿的科羅拉多高原坐落於四角落州正中央，高原跨猶他州、科羅拉多州、亞利桑那州和新墨西哥州，高原的面積是337,000平方公里，高原的平均海拔高度达600至3870米，並且有經過強烈侵蝕的砂岩地帶，這些紅土高原也是數個國家公園坐落的地方，包括布萊斯、大峽谷和宰恩等。"
+        },
+        {
+          "document_id": "658274#6",
+          "title": "博茨瓦纳历史",
+          "source": "https://zh.wikipedia.org/?curid=658274",
+          "relevant": false,
+          "text": "这个国家主要是平坦的，倾向于平缓滚动的平原。博茨瓦纳以喀拉哈里沙漠为主，喀拉哈里沙漠覆盖其陆地面积的70％。奥卡万戈三角洲是世界上最大的内陆三角洲之一，位于西北。北部是大型盐锅(Makgadikgadi Pan)。"
+        },
+        {
+          "document_id": "845495#0",
+          "title": "乌托邦平原",
+          "source": "https://zh.wikipedia.org/?curid=845495",
+          "relevant": false,
+          "text": "乌托邦平原（），又译作乌托邦低原，为火星上最大的平原，直徑3,300公里，中央為，位于阿爾及爾平原的對蹠點上。"
+        }
+      ]
+    },
+    "en": {
+      "query_id": "4246",
+      "query": "When did Philip Melanchthon die?",
+      "passages": [
+        {
+          "document_id": "39209#0",
+          "title": "Philip Melanchthon",
+          "source": "https://en.wikipedia.org/?curid=39209",
+          "relevant": true,
+          "text": "Philip Melanchthon (born Philipp Schwartzerdt; 16 February 1497 – 19 April 1560) was a German Lutheran reformer, collaborator with Martin Luther, the first systematic theologian of the Protestant Reformation, intellectual leader of the Lutheran Reformation, and an influential designer of educational systems. He stands next to Luther and John Calvin as a reformer, theologian, and molder of Protestantism. After Luther himself, he is the primary founder of Lutheranism."
+        },
+        {
+          "document_id": "39209#14",
+          "title": "Philip Melanchthon",
+          "source": "https://en.wikipedia.org/?curid=39209",
+          "relevant": false,
+          "text": "The composition now known as the \"Augsburg Confession\" was laid before the Diet of Augsburg in 1530, and would come to be considered perhaps the most significant document of the Protestant Reformation. While the confession was based on Luther's Marburg and Schwabach articles, it was mainly the work of Melanchthon; although it was commonly thought of as a unified statement of doctrine by the two reformers, Luther did not conceal his dissatisfaction with its irenic tone. Indeed, some would criticize Melanchthon's conduct at the Diet as unbecoming of the principle he promoted, implying that faith in the truth of his cause should logically have inspired Melanchthon to a firmer and more dignified posture. Others point out that he had not sought the part of a political leader, suggesting that he seemed to lack the requisite energy and decision for such a role and may simply have been a lackluster judge of human nature."
+        },
+        {
+          "document_id": "39209#15",
+          "title": "Philip Melanchthon",
+          "source": "https://en.wikipedia.org/?curid=39209",
+          "relevant": false,
+          "text": "Melanchthon then settled into the comparative quiet of his academic and literary labours. His most important theological work of this period was the \"Commentarii in Epistolam Pauli ad Romanos\" (Wittenberg, 1532), noteworthy for introducing the idea that \"to be justified\" means \"to be accounted just\", whereas the Apology had placed side by side the meanings of \"to be made just\" and \"to be accounted just\". Melanchthon's increasing fame gave occasion for several honourable calls to Tübingen (September 1534), to France, and to England, but consideration of the elector caused him to refuse them."
+        },
+        {
+          "document_id": "39209#18",
+          "title": "Philip Melanchthon",
+          "source": "https://en.wikipedia.org/?curid=39209",
+          "relevant": false,
+          "text": "The last eventful and sorrowful period of his life began with controversies over the Interims and the Adiaphora (1547). It is true, Melanchthon rejected the Augsburg Interim, which the emperor tried to force upon the defeated Protestants; but in the high pressure negotiations concerning the so-called Leipzig Interim he made controversial concessions that would long be debated. In agreeing to various Roman usages, Melanchthon started from the opinion that they are adiaphora if nothing is changed in the pure doctrine and the sacraments which Jesus instituted, but he disregarded the position that concessions made under such circumstances have to be regarded as a denial of Evangelical convictions."
+        },
+        {
+          "document_id": "39209#19",
+          "title": "Philip Melanchthon",
+          "source": "https://en.wikipedia.org/?curid=39209",
+          "relevant": false,
+          "text": "Melanchthon himself perceived his faults in the course of time and repented of them, perhaps having to suffer more than was just in the displeasure of his friends and the hatred of his enemies. From now on until his death he was full of trouble and suffering. After Luther's death he became the \"theological leader of the German Reformation\", not indisputably, however; for the Gnesio-Lutherans with Matthias Flacius at their head accused him and his followers of heresy and apostasy. Melanchthon bore all accusations with patience, dignity, and self-control."
+        },
+        {
+          "document_id": "39209#23",
+          "title": "Philip Melanchthon",
+          "source": "https://en.wikipedia.org/?curid=39209",
+          "relevant": false,
+          "text": "But all his caution and reservation did not hinder his opponents from continually working against him, accusing him of synergism and Zwinglianism. At the Colloquy of Worms in 1557 which he attended only reluctantly, the adherents of Flacius and the Saxon theologians tried to avenge themselves by thoroughly humiliating Melanchthon, in agreement with the malicious desire of the Roman Catholics to condemn all heretics, especially those who had departed from the Augsburg Confession, before the beginning of the conference. As this was directed against Melanchthon himself, he protested, so that his opponents left, greatly to the satisfaction of the Roman Catholics who now broke off the colloquy, throwing all blame upon the Protestants. The Reformation in the sixteenth century did not experience a greater insult, as Friedrich Nietzsche says. Nevertheless, Melanchthon persevered in his efforts for the peace of the church, suggesting a synod of the Evangelical party and drawing up for the same purpose the Frankfurt Recess, which he defended later against the attacks of his enemies."
+        },
+        {
+          "document_id": "39209#28",
+          "title": "Philip Melanchthon",
+          "source": "https://en.wikipedia.org/?curid=39209",
+          "relevant": false,
+          "text": "The only care that occupied him until his last moment was the desolate condition of the church. He strengthened himself in almost uninterrupted prayer, and in listening to passages of Scripture. Especially significant did the words seem to him, \"His own received him not; but as many as received him, to them gave he power to become the sons of God.\" When Caspar Peucer, his son-in-law, asked him if he wanted anything, he replied, \"Nothing but heaven.\" His body was buried beside Luther's in the Schloßkirche in Wittenberg."
+        },
+        {
+          "document_id": "39209#31",
+          "title": "Philip Melanchthon",
+          "source": "https://en.wikipedia.org/?curid=39209",
+          "relevant": false,
+          "text": "Both were aware of their mutual position and they thought of it as a divine necessity of their common calling. Melanchthon wrote in 1520, \"I would rather die than be separated from Luther\", whom he afterward compared to Elijah, and called \"the man full of the Holy Ghost\". In spite of the strained relations between them in the last years of Luther's life, Melanchthon exclaimed at Luther's death, \"Dead is the horseman and chariot of Israel who ruled the church in this last age of the world!\""
+        },
+        {
+          "document_id": "39209#32",
+          "title": "Philip Melanchthon",
+          "source": "https://en.wikipedia.org/?curid=39209",
+          "relevant": false,
+          "text": "On the other hand, Luther wrote of Melanchthon, in the preface to Melanchthon's \"Commentary on the Galatians\" (1529), \"I had to fight with rabble and devils, for which reason my books are very warlike. I am the rough pioneer who must break the road; but Master Philip comes along softly and gently, sows and waters heartily, since God has richly endowed him with gifts.\" Luther also did justice to Melanchthon's teachings, praising one year before his death in the preface to his own writings Melanchthon's revised \"Loci\" above them and calling Melanchthon \"a divine instrument which has achieved the very best in the department of theology to the great rage of the devil and his scabby tribe.\" It is remarkable that Luther, who vehemently attacked men like Erasmus and Bucer, when he thought that truth was at stake, never spoke directly against Melanchthon, and even during his melancholy last years conquered his temper."
+        },
+        {
+          "document_id": "39209#4",
+          "title": "Philip Melanchthon",
+          "source": "https://en.wikipedia.org/?curid=39209",
+          "relevant": false,
+          "text": "Philipp was only eleven when in 1508 both his grandfather (17 October) and father (27 October) died within eleven days. He and a brother were brought to Pforzheim to live with his maternal grandmother, Elizabeth Reuter, sister of Reuchlin."
+        }
+      ]
+    },
+    "ja": {
+      "query_id": "884",
+      "query": "エウロパが発見されたのはいつ",
+      "passages": [
+        {
+          "document_id": "31473#0",
+          "title": "エウロパ (衛星)",
+          "source": "https://ja.wikipedia.org/?curid=31473",
+          "relevant": true,
+          "text": "エウロパ (Jupiter II ) は、木星の第2衛星である。ガリレオ衛星と呼ばれる木星の四大衛星の中では最も小さく、発見されている木星の衛星の中では内側から6番目を公転する。地球の月よりわずかに小さく、太陽系内の衛星の中では7番目に大きい。1610年にガリレオ・ガリレイによって発見され、ギリシア神話のゼウスが恋に落ちたテュロスの王女エウローペーにちなんで名づけられた。比較的明るい衛星で、双眼鏡でも観察できる。"
+        },
+        {
+          "document_id": "31473#10",
+          "title": "エウロパ (衛星)",
+          "source": "https://ja.wikipedia.org/?curid=31473",
+          "relevant": false,
+          "text": "発見当初は内側から2番目を公転する衛星だと認識されていたが、1892年にガリレオ衛星よりも内側を公転するアマルテアが発見され、エウロパは内側から3番目の衛星となった。1979年のボイジャーによる観測ではさらに3つの内側の衛星が発見され、エウロパは内側から6番目の衛星となったが、Jupiter II という名称は現在でも使われており、エウロパは木星の第2衛星と認識されている。"
+        },
+        {
+          "document_id": "31473#3",
+          "title": "エウロパ (衛星)",
+          "source": "https://ja.wikipedia.org/?curid=31473",
+          "relevant": false,
+          "text": "エウロパは地上望遠鏡による観測に加え、1970年代前半以降は探査機のフライバイによる探査も行われている。1989年に打ち上げられたガリレオ探査機のミッションでは、現在のエウロパの全体のデータが得られている。これまでにエウロパに着陸した探査機は存在しないが、周回機や着陸機などのミッションがいくつか提案されている。例えば欧州宇宙機関が2022年に打ち上げを予定しているガニメデを主目的とした探査計画である JUICE では、ミッション期間中に2回のエウロパのフライバイを予定している。またアメリカ航空宇宙局では2020年代中盤に、エウロパを集中的に観測するの打ち上げを計画している。"
+        },
+        {
+          "document_id": "31473#4",
+          "title": "エウロパ (衛星)",
+          "source": "https://ja.wikipedia.org/?curid=31473",
+          "relevant": true,
+          "text": "エウロパは、木星の他の3つの大きな衛星であるイオ、ガニメデとカリストと共に、ガリレオ・ガリレイによって1610年1月に発見された。またおそらくシモン・マリウスも同時期に独立に発見している。ガリレオが初めて木星の衛星を発見したのは1610年1月7日であり、パドヴァ大学において屈折望遠鏡を用いた観測で木星の周囲にある3つの天体を発見した。しかしこの時は望遠鏡が低倍率であったためイオとエウロパを分解できず、この2つは単一の光点としてしか観測されなかった。翌日の1610年1月8日になって、ガリレオはイオとエウロパを初めて別々の天体として認識した。そのため、国際天文学連合ではガニメデとカリストの発見日は1610年1月7日としているものの、エウロパとイオについては初めて個別の天体として観測された日である1610年1月8日を発見日としている。ガリレオによって発見されたこれらの4つの衛星は、合わせてガリレオ衛星と呼ばれている。"
+        },
+        {
+          "document_id": "31473#43",
+          "title": "エウロパ (衛星)",
+          "source": "https://ja.wikipedia.org/?curid=31473",
+          "relevant": false,
+          "text": "2012年にハッブル宇宙望遠鏡によって得られたエウロパの画像の中から、エウロパの南極付近から噴出している水蒸気と思われる特徴が発見された。画像の分析から、噴出物の高さは表面から 200 km にも及び、エベレスト山の20倍を超える高さにまで達していることが示唆された。もしこれが実在のものであるとすると、噴出は間欠泉的に発生しており、エウロパが木星から最も遠ざかった地点で発生しているように思われることが示唆された。これは噴出が潮汐力によって引き起こされると仮定した場合の理論的な予測と一致する特徴である。2016年にもハッブル宇宙望遠鏡によってこの噴出の存在を支持する観測結果が得られている。"
+        },
+        {
+          "document_id": "31473#44",
+          "title": "エウロパ (衛星)",
+          "source": "https://ja.wikipedia.org/?curid=31473",
+          "relevant": false,
+          "text": "2018年には、1995年から2003年にかけて木星を周回したガリレオ探査機によって得られたデータの最新の批判的再分析に基づき、エウロパでの水の噴出活動の存在を支持するさらなる証拠が得られた。ガリレオは1997年にエウロパの表面から 206 km 以内という非常に近距離を通過しており、科学者はこの時に探査機が噴出の中を通過した可能性があることを示唆した。このような噴出活動は、衛星表面に着陸すること無くエウロパの地下の海における生命の探査を行う手助けになると科学者は考えている。"
+        },
+        {
+          "document_id": "31473#5",
+          "title": "エウロパ (衛星)",
+          "source": "https://ja.wikipedia.org/?curid=31473",
+          "relevant": false,
+          "text": "1614年にシモン・マリウスが出版した『\"Mundus Jovialis\"』の中で、マリウスはガリレオの発見より1週間前の1609年にエウロパやその他のガリレオ衛星を発見したと主張した。ガリレオはこの主張を疑い、マリウスのこの著作は盗作であるとして退けた。マリウスの観測記録はユリウス暦の1609年12月29日から始まっており、これはガリレオが用いていたグレゴリオ暦では1610年1月8日にあたる。ガリレオがマリウスより先に発見を発表していることから、ガリレオが発見者として記録されている。"
+        },
+        {
+          "document_id": "31473#50",
+          "title": "エウロパ (衛星)",
+          "source": "https://ja.wikipedia.org/?curid=31473",
+          "relevant": false,
+          "text": "エウロパの探査が初めて行われたのは、1973年と1974年にパイオニア10号とパイオニア11号がそれぞれ木星をフライバイしたときである。この時に撮影された初めてのエウロパの接近画像は、後の探査ミッションで得られたものと比較すると解像度の低いものであった。ボイジャー計画の2機の探査機が1979年に木星系を探査した際に、エウロパの氷に覆われた表面のより詳細な写真が得られた。ボイジャーによって得られた画像から、多くの科学者はエウロパの地下に液体の海が存在する可能性について考えることとなった。"
+        },
+        {
+          "document_id": "31473#70",
+          "title": "エウロパ (衛星)",
+          "source": "https://ja.wikipedia.org/?curid=31473",
+          "relevant": false,
+          "text": "化学合成のプロセスが発見されたのは地球だが、これはエウロパの生命モデルの可能性として有力である。しかし、このようなエネルギー源では、地球表面の光合成を源とする生態系のように、広範で多様な生態系を形づくることはできない。エウロパに生命が存在した場合、地球においてと呼ばれる生命が生息している場所のような、熱水噴出孔や海底に固まって存在している可能性がある。あるいは、地球の極地での藻類や細菌のように、エウロパの氷の層の下面にしがみつくように生息していたり、エウロパの内部海を漂っていたりするものもあると考えられている。もしエウロパの海が低温過ぎた場合、地球で起きているのと同じ生物学的過程は発生しない可能性がある。また塩分が多すぎる場合も、極端な好塩菌しかその環境では行きられない。"
+        },
+        {
+          "document_id": "7638#5",
+          "title": "イオ (衛星)",
+          "source": "https://ja.wikipedia.org/?curid=7638",
+          "relevant": false,
+          "text": "イオは1610年1月7日に、ガリレオ・ガリレイがパドヴァ大学においてガリレオ式望遠鏡を用いて発見した。しかしその観測では望遠鏡の性能不足のため、ガリレオはイオとエウロパを区別することが出来ず、両者は1つの光点として記録された。ガリレオがイオとエウロパを別々の天体として観測したのは翌日の1610年1月8日のことであり、この日付が国際天文学連合 (IAU) に発見日として認められている。イオとその他のガリレオ衛星の発見は、1610年3月の『星界の報告』で発表された。"
+        }
+      ]
+    },
+    "ko": {
+      "query_id": "21",
+      "query": "일본의 화폐 단위는 무엇인가?",
+      "passages": [
+        {
+          "document_id": "103224#0",
+          "title": "한국 화폐 단위 어원",
+          "source": "https://ko.wikipedia.org/?curid=103224",
+          "relevant": true,
+          "text": "대한민국의 화폐 단위인 원과 조선민주주의인민공화국 화폐 단위인 원은 한자 圓의 \"둥글다\"라는 뜻에서 유래한 것이다. 일본 엔(, 의 일본식 약자)과 중국의 위안(, )도 같은 한자를 기반으로 기본 화폐 단위를 삼고 있다. 과거 한때 사용했던 '환'(圜)이라는 화폐 단위도 의미 상으로는 '둥글다'라는 뜻으로 圓과 뜻이 상통한다."
+        },
+        {
+          "document_id": "1282008#3",
+          "title": "일본 경제 단체 연합회",
+          "source": "https://ko.wikipedia.org/?curid=1282008",
+          "relevant": false,
+          "text": "‘기업의 가치 창출 능력 강화, 일본과 세계 경제 발전의 촉진’을 목적으로 하고 있으며 경영자의 의견 수렴, 정치·행정·노동조합·시민 등과의 대화, 회원 기업의 헌장 준수 움직임, 각국 정부·경제 단체나 국제 기관과의 상호 작용을 하고 있다. 일본 경제를 대표하는 유력 기업들이 많이 가입돼 있기 때문에 그 이해가 사회 문제에 대한 견해나 주장에 반영되고 있으며 ‘게이단렌 성장 전략’ 등의 경제 발전, 기업 이익 증가를 도모하는 정책과 제언을 실시하고 있을 뿐만 아니라 자유민주당이나 민주당에 정치 헌금을 하고, 정계·경제계에 큰 영향력을 가진 조직으로 알려져 있다."
+        },
+        {
+          "document_id": "1644190#66",
+          "title": "화폐사",
+          "source": "https://ko.wikipedia.org/?curid=1644190",
+          "relevant": false,
+          "text": "명전(冥錢)은 부장품에 사용되는 화폐를 말한다. 고대 중국에서는 도전(陶錢)이나 지전(紙錢)이 사용되었는데 나중에 일본에도 전승되었다. 일본의 이러한 화폐로는 육문전(六文錢)이나 근세의 육도전(六道錢) 등이 알려져 있다. 중국, 한국, 타이완, 베트남 등에서는 장의사 등에서 명국은행권이라는 장의용 지폐를 준비해두기도 했다. 1930년대 중국에서는 액면가가 5엔 정도 되었으나 이후 고액화되어 일반적으로는 존재하지 않는 액면가가 되었다. 비슷한 관습으로는 고대 그리스에서 지옥의 강에 있던 사공인 카론에게 건내주기 위해 1오볼루스를 사자의 입에 넣어두었다."
+        },
+        {
+          "document_id": "173063#2",
+          "title": "5엔 동전",
+          "source": "https://ko.wikipedia.org/?curid=173063",
+          "relevant": false,
+          "text": "일본의 동전 가운데 아라비아 숫자 표기가 없고 한자 숫자 표기만 있는 유일한 동전이다. 소비세 도입 등으로 인해 일본에서 비교적 많이 쓰이는 화폐이지만 아라비아 숫자가 표기가 없기 때문에 한자를 쓰지 않는 나라에서 온 외국인 관광객들의 혼란을 가져오고 있다. 일본에서는 5엔의 일본어 발음이 \"인연\"을 뜻하는 일본어 단어 '고엔'()과 발음이 같기 때문에 신사 등에서 행운의 동전으로 널리 사용되고 있다."
+        },
+        {
+          "document_id": "1931802#1",
+          "title": "디노미네이션",
+          "source": "https://ko.wikipedia.org/?curid=1931802",
+          "relevant": false,
+          "text": "통화에서는 일반적으로 기본이 되는 단위가 있으며, 기본 단위의 일부는 하위단위(subunit, 서브유닛)이라고 한다. 일부 국가에는 여러 단계의 하위 단위들이 있다. 오스만 제국에서 1리라 = 100쿠루쉬 = 4000파라 = 12000악체이다. 과거에 하위단위를 사용했던 일부 통화들은 더 이상 이러한 단위를 사용하지 않기도 하는데, 그 이유는 인플레이션이 하위단위를 쓸모없게 만들었기 때문이다. 저명한 예로 일본 엔이 있으며 과거에는 100센이나 1000린으로 분리되었다. 두 하위단위는 1953년을 끝으로 본위 화폐로서의 자격을 잃게 되었다."
+        },
+        {
+          "document_id": "195037#0",
+          "title": "일본의 경제",
+          "source": "https://ko.wikipedia.org/?curid=195037",
+          "relevant": false,
+          "text": "일본은 수정 자본주의 경제 체제를 채택하고 있으며, 통화 단위는 엔(, ¥, Yen, JPY)이다. 국내총생산의 규모비로는 세계 제3위의 경제 대국으로, 일본의 경제 동향은 세계 경제에 큰 영향을 준다. 그러나 1990년대 IT산업을 미국이 주도하면서 그 영향력이 감소되고, 이는 곧 일본 금융계의 무분별한 투자로 인한 토지의 불량 채권화를 가속화하여 경제에 치명타를 가하고 말았다. 하지만 현재 일본은 국내총생산으로써는 세계 제3위, 1인당 총생산은 OECD 회원국 중 18위에 해당하며, 세계의 국내총생산 총액 점유 비중에서 9.1%의 비중을 가지고 있는 등 경제적으로 세계에 큰 영향을 미치고 있다."
+        },
+        {
+          "document_id": "2008305#0",
+          "title": "이오스",
+          "source": "https://ko.wikipedia.org/?curid=2008305",
+          "relevant": false,
+          "text": "이오스(EOS.IO)는 위임지분증명(DPoS) 방식을 사용하는 제3세대 암호화폐이다. 이오스의 화폐 단위는 EOS이다. 2017년 댄 라리머가 이더리움 기반으로 개발했고, 2018년 6월 이더리움에서 벗어나 자체 메인넷을 오픈했다. 웹어셈블리(WebAssembly), 러스트(Rust), C, C++ 등 다양한 프로그래밍 언어를 사용하여 개발했다."
+        },
+        {
+          "document_id": "304917#0",
+          "title": "유럽 통화 단위",
+          "source": "https://ko.wikipedia.org/?curid=304917",
+          "relevant": false,
+          "text": "유럽 통화 단위 (European Currency Unit; ECU) 는 유럽 공동체의 통화단위로서 1979년 3월 13일 도입돼 1999년 1월 1일 유로화로 대체되기 전까지 회원국의 공통화폐로 기능했다. 유럽환율제도는 각 회원국의 기존 통화와 통화 단위간의 차이를 줄이기 위해 노력했으며 당시에도 일부 무역 거래에서 거래 화폐로 쓰였다."
+        },
+        {
+          "document_id": "65777#4",
+          "title": "나루토",
+          "source": "https://ko.wikipedia.org/?curid=65777",
+          "relevant": false,
+          "text": "작품의 무대는 근세의 일본을 기초로 현대 문화를 뒤섞어놓은 가공의 세계이다. 뒤에 적시한 닌자에 대한 묘사와 함께 기존의 닌자 액션을 방불케 하는 세계관으로 구성되어 있다. 언어는 거의 현대 일본어와 비슷한 언어를 사용하며 일본 시대극에 나오는 표현은 별로 없다. 의복은 근세에 보여지는 기모노를 기본으로 이름이 있는 캐릭터들은 일본식 복장부터 저지, 타이츠, 차이나 드레스까지 다양하다. 화폐의 단위는 양(両)이다. 인술이 기계의 역할을 하고 있어서 나루토 세계관은 일본만 주목되었다."
+        },
+        {
+          "document_id": "979453#4",
+          "title": "은본위제",
+          "source": "https://ko.wikipedia.org/?curid=979453",
+          "relevant": false,
+          "text": "일본 에도시대에는 금화(엽전), 은화(정은), 그리고 소액 화폐로 전화(錢貨)가 각각 무제한 통용되는 이른바 3화 제도가 존재하고 있었지만, 실상은 동일본에서 주로 금화, 서일본에서 주로 은화가 유통되었다. 그러나 반드시 화폐 가치가 금은괴 가치를 나타낸 것은 아니었기 때문에 본위 화폐 제도로 이해하는 것은 어렵다."
+        }
+      ]
+    },
+    "fr": {
+      "query_id": "4755566#0",
+      "query": "Qui étaient les gaulois?",
+      "passages": [
+        {
+          "document_id": "2466#0",
+          "title": "Gaulois (peuples)",
+          "source": "https://fr.wikipedia.org/?curid=2466",
+          "relevant": true,
+          "text": "Les Gaulois (en , en ) étaient l'ensemble des peuples protohistoriques habitant la Gaule, au sens défini par Jules César dans le cadre du récit de ses conquêtes militaires. Ce concept ethno-culturel, né de la vision romaine de l'espace continental européen alors peu connu des géographes antiques, sert usuellement à désigner l'ensemble des peuples celtiques ayant occupé les territoires de la France, de la Suisse et de la Belgique actuelle et d'une partie de l'Allemagne actuelle (par exemple, la ville de Trèves actuelle, allemande, est située sur le territoire de la Gaule Belgique)."
+        },
+        {
+          "document_id": "2466#17",
+          "title": "Gaulois (peuples)",
+          "source": "https://fr.wikipedia.org/?curid=2466",
+          "relevant": false,
+          "text": "Pour Strabon ( 1, 2), les Germains sont identiques aux Gaulois par leur aspect physique et leur mode de vie, tout en étant plus sauvages, plus grands et aussi plus blonds. Cette blondeur des Gaulois pourrait provenir d'une teinture à l'argile ou à l'eau de chaux qui éclaircissait les « cheveux chaulés » des Gaulois même bruns, ou d'une teinture, le \"sapo\" à base d'un mélange de graisse de chèvre, de bois de hêtre et de suc de plantes qui donnait une chevelure blonde tirant vers le roux. Cet auteur croit que les Romains eux-mêmes ont donné ce nom aux Germains pour signifier qu'ils étaient les Gaulois authentiques, « germanus » ayant ce sens en latin. . . Les Celtes, n'utilisant pas l'écrit communément, apparaissent donc pendant la période dite protohistorique, à l’âge du bronze."
+        },
+        {
+          "document_id": "2466#2",
+          "title": "Gaulois (peuples)",
+          "source": "https://fr.wikipedia.org/?curid=2466",
+          "relevant": false,
+          "text": "Outre la désignation sous laquelle on range les Gaulois, il existe plusieurs sous-ensembles et groupes culturels identifiés avant César par les géographes et historiques antiques : on peut mentionner ainsi les Ibères dans le Languedoc et les Ligures en Provence, qui se rattachaient eux aussi à la civilisation celtique antique malgré une forte hellénisation dès l'époque classique et hellénistique. Les Gaulois, à partir du et surtout à la suite de la conquête des Gaules par Jules César, sont l'objet d'un processus d'acculturation rapide, du fait du grand commerce en Méditerranée et de la soumission à l'État romain. Les marqueurs de la civilisation gauloise s'estompent alors progressivement et ne survivent que par des portions limitées : la culture matérielle de La Tène disparaît au début du de notre ère, la langue celtique reste pratiquée mais marginale, cantonnée à des textes religieux, des calendriers, ou des dédicaces votives, au profit de l'ascension du latin dans la région. Les panthéons gaulois survivent partiellement, parfois mêlés aux divinités grecques et romaines qui s'imposent alors dans les cultes publics des cités gallo-romaines soumises au pouvoir de Rome et intégrées aux provinces des Gaules."
+        },
+        {
+          "document_id": "2466#21",
+          "title": "Gaulois (peuples)",
+          "source": "https://fr.wikipedia.org/?curid=2466",
+          "relevant": false,
+          "text": "Dans les sources latines postérieures, les Gaulois des sont clairement distingués des Cimbres, des Teutons et des Bretons."
+        },
+        {
+          "document_id": "2466#22",
+          "title": "Gaulois (peuples)",
+          "source": "https://fr.wikipedia.org/?curid=2466",
+          "relevant": false,
+          "text": "La recherche actuelle montre ainsi que les Gaulois sont un peuple indigène, mais qu'ils étendent leur territoire à l'est en établissant des colonies (notamment en Galatie). Les cités décident d'y envoyer une partie de leur jeunesse, peut-être une génération entière, fonder un nouveau territoire, cette colonisation étant loin de l'image des invasions gauloises forgée par les Romains."
+        },
+        {
+          "document_id": "2466#33",
+          "title": "Gaulois (peuples)",
+          "source": "https://fr.wikipedia.org/?curid=2466",
+          "relevant": false,
+          "text": "Contrairement à une idée reçue tenace, les Gaulois ne vivaient pas dans les forêts (le paysage était ouvert, moins boisé qu'aujourd'hui), ils vivaient en ville (oppidum) ou à la campagne (maillage de grandes fermes abritant des aristocrates)."
+        },
+        {
+          "document_id": "2466#35",
+          "title": "Gaulois (peuples)",
+          "source": "https://fr.wikipedia.org/?curid=2466",
+          "relevant": false,
+          "text": "Les Gaulois n'étaient nullement isolés. Aux échanges économiques s'ajoute la circulation des hommes engagés dans les armées impériales. Christian Goudineau rappelle que les armées des grands empires de l'époque hellénistique ont recruté des Gaulois, qui ainsi, ont vu Athènes, Alexandrie, Antioche ; ces mouvements ont introduit au moins une amorce d'acculturation."
+        },
+        {
+          "document_id": "2466#37",
+          "title": "Gaulois (peuples)",
+          "source": "https://fr.wikipedia.org/?curid=2466",
+          "relevant": true,
+          "text": "Les Gaulois sont des artisans réputés dans le travail du bois : le tonneau cerclé de métal, notamment, serait une invention gauloise ; des ateliers de tabletiers (faisant appel aux techniques de l'ébéniste, du marqueteur ou du tourneur) sont souvent situés à proximité des forges ou d'autres artisanats."
+        },
+        {
+          "document_id": "2466#45",
+          "title": "Gaulois (peuples)",
+          "source": "https://fr.wikipedia.org/?curid=2466",
+          "relevant": true,
+          "text": "Les Gaulois sont polythéistes. Le druide était un personnage important aux multiples facettes : il est à la fois ministre du culte, théologien, philosophe, gardien du Savoir et de la Sagesse, historien, juriste et aussi conseiller militaire du roi et de la classe guerrière."
+        },
+        {
+          "document_id": "2466#53",
+          "title": "Gaulois (peuples)",
+          "source": "https://fr.wikipedia.org/?curid=2466",
+          "relevant": false,
+          "text": "Le savant Posidonios qui a effectué un voyage dans le sud de la Gaule dans les années 100, décrit les Gaulois ainsi : . Cette description nuancée n'a pas empêché une série de stéréotypes liés à leur physionomie : tous les Gaulois seraient des hommes robustes, de haute taille, à la peau blanche et les yeux bleus, portant de longues moustaches pendantes et une chevelure claire (blonde ou rousse), longue et hirsute. Ce portrait caricatural est utilisé ."
+        }
+      ]
+    },
+    "es": {
+      "query_id": "4233118#0",
+      "query": "¿Quién creó el lenguaje Java?",
+      "passages": [
+        {
+          "document_id": "46707#26",
+          "title": "Oracle Corporation",
+          "source": "https://es.wikipedia.org/?curid=46707",
+          "relevant": true,
+          "text": "Oracle, compró el lenguaje de programación de computadoras Java cuando adquirió Sun Microsystems en enero de 2010. El software Java incluye conjuntos de código de software predesarrollado para realizar tareas comunes de manera consistente entre programas y aplicaciones. El código desarrollado previamente está organizado en \"paquetes\" separados, cada uno de los cuales contiene un conjunto de \"clases\". Cada clase contiene numerosos métodos, que instruyen a un programa o aplicación a realizar una determinada tarea. Los desarrolladores de software \"se acostumbraron a usar las designaciones de Java a nivel de paquete, clase y método\". Oracle y Google (el demandado) intentaron negociar un acuerdo para que Oracle otorgara la licencia de Java a Google, lo que le habría permitido a Google usar Java en el desarrollo de programas para dispositivos móviles que utilizan el sistema operativo Android. Sin embargo, las dos empresas nunca llegaron a un acuerdo. Después de que fracasaron las negociaciones, Google creó su propia plataforma de programación, que estaba basada en Java, y contenía una combinación de 37 paquetes Java copiados y nuevos paquetes desarrollados por Google."
+        },
+        {
+          "document_id": "5512#0",
+          "title": "Java (lenguaje de programación)",
+          "source": "https://es.wikipedia.org/?curid=5512",
+          "relevant": false,
+          "text": "Java es un lenguaje de programación y una plataforma informática que fue comercializada por primera vez en 1995 por Sun Microsystems. Hay muchas aplicaciones y sitios web que no funcionarán, probablemente, a menos que tengan Java instalado, y cada día se crean más. Java es rápido, seguro y fiable. Desde ordenadores portátiles hasta centros de datos, desde consolas para juegos hasta computadoras avanzadas, desde teléfonos móviles hasta Internet, Java está en todas partes. Si es ejecutado en una plataforma no tiene que ser recompilado para correr en otra. Java es, a partir de 2012, uno de los lenguajes de programación más populares en uso, particularmente para aplicaciones de cliente-servidor de web, con unos diez millones de usuarios reportados."
+        },
+        {
+          "document_id": "5512#1",
+          "title": "Java (lenguaje de programación)",
+          "source": "https://es.wikipedia.org/?curid=5512",
+          "relevant": true,
+          "text": "El lenguaje de programación Java fue desarrollado originalmente por James Gosling, de Sun Microsystems (constituida en 1983 y posteriormente adquirida el 27 de enero de 2010 por la compañía Oracle), y publicado en 1995 como un componente fundamental de la plataforma Java de Sun Microsystems. Su sintaxis deriva en gran medida de C y C++, pero tiene menos utilidades de bajo nivel que cualquiera de ellos. Las aplicaciones de Java son compiladas a bytecode (clase Java), que puede ejecutarse en cualquier máquina virtual Java (JVM) sin importar la arquitectura de la computadora subyacente."
+        },
+        {
+          "document_id": "5512#11",
+          "title": "Java (lenguaje de programación)",
+          "source": "https://es.wikipedia.org/?curid=5512",
+          "relevant": false,
+          "text": "Desde J2SE 1.4, la evolución del lenguaje ha sido regulada por el JCP (Java Community Process), que usa \"Java Specification Requests\" (JSRs) para proponer y especificar cambios en la plataforma Java. El lenguaje en sí mismo está especificado en la \"Java Language Specification\" (JLS), o Especificación del Lenguaje Java. Los cambios en los JLS son gestionados en JSR 901.  void displayWidgets (Iterable widgets) { Este ejemplo itera sobre el objeto codice_10 codice_11, asignando, en orden, cada uno de los elementos a la variable codice_12, y llamando al método codice_13 de cada uno de ellos. (Especificado por JSR 201.)"
+        },
+        {
+          "document_id": "5512#13",
+          "title": "Java (lenguaje de programación)",
+          "source": "https://es.wikipedia.org/?curid=5512",
+          "relevant": false,
+          "text": "El lenguaje Java se creó con cinco objetivos principales:"
+        },
+        {
+          "document_id": "5512#27",
+          "title": "Java (lenguaje de programación)",
+          "source": "https://es.wikipedia.org/?curid=5512",
+          "relevant": false,
+          "text": "La sintaxis de Java se deriva en gran medida de C++. Pero a diferencia de este, que combina la sintaxis para programación genérica, estructurada y orientada a objetos, Java fue construido desde el principio para ser completamente orientado a objetos. Todo en Java es un objeto (salvo algunas excepciones), y todo en Java reside en alguna clase (recordemos que una clase es un molde a partir del cual pueden crearse varios objetos)."
+        },
+        {
+          "document_id": "5512#3",
+          "title": "Java (lenguaje de programación)",
+          "source": "https://es.wikipedia.org/?curid=5512",
+          "relevant": true,
+          "text": "Java se creó como una herramienta de programación para ser usada en un proyecto de set-top-box en una pequeña operación denominada \"the Green Project\" en Sun Microsystems en 1991. El equipo (\"Green Team\"), compuesto por trece personas y dirigido por James Gosling, trabajó durante 18 meses en Sand Hill Road, en Menlo Park, para desarrollarlo."
+        },
+        {
+          "document_id": "5512#4",
+          "title": "Java (lenguaje de programación)",
+          "source": "https://es.wikipedia.org/?curid=5512",
+          "relevant": true,
+          "text": "El lenguaje se denominó inicialmente \"Oak\" (por un roble que había fuera de la oficina de Gosling), luego pasó a llamarse \"Green\" tras descubrir que \"Oak\" era ya una marca comercial registrada para adaptadores de tarjetas gráficas, y finalmente se le renombró \"Java\"."
+        },
+        {
+          "document_id": "5512#6",
+          "title": "Java (lenguaje de programación)",
+          "source": "https://es.wikipedia.org/?curid=5512",
+          "relevant": true,
+          "text": "Los objetivos de Gosling eran implementar una máquina virtual y un lenguaje con una estructura y sintaxis similar a C++. Entre junio y julio de 1994, tras una sesión maratoniana de tres días entre John Gage, James Gosling, Patrick Naughton, Wayne Rosing y Eric Schmidt, el equipo reorientó la plataforma hacia la Web. Sintieron que la llegada del navegador web Mosaic propiciaría que Internet se convirtiese en un medio interactivo, como el que pensaban era la televisión por cable. Naughton creó entonces un prototipo de navegador, WebRunner, que más tarde sería conocido como HotJava."
+        },
+        {
+          "document_id": "5512#7",
+          "title": "Java (lenguaje de programación)",
+          "source": "https://es.wikipedia.org/?curid=5512",
+          "relevant": false,
+          "text": "En 1994, se les hizo una demostración de HotJava y la plataforma Java a los ejecutivos de Sun. Java 1.0a pudo descargarse por primera vez en 1994, pero hubo que esperar al 23 de mayo de 1995, durante las conferencias de SunWorld, a que vieran la luz pública Java y HotJava, el navegador Web. El acontecimiento fue anunciado por John Gage, el director científico de Sun Microsystems. El acto estuvo acompañado por una pequeña sorpresa adicional, el anuncio por parte de Marc Andreessen, vicepresidente ejecutivo de Netscape, de que Java sería soportado en sus navegadores. El 9 de enero del año siguiente, 1996, Sun fundó el grupo empresarial JavaSoft para que se encargase del desarrollo tecnológico. Dos semanas más tarde la primera versión de Java fue publicada."
+        }
+      ]
+    }
+  }
+}

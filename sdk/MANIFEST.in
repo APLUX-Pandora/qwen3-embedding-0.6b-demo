@@ -1,0 +1,6 @@
+recursive-include include *.h
+recursive-include lib *
+recursive-include wheels pandora_runtime-*.whl
+include README.md PYTHON_API.md RUNTIME_API.md SHA256SUMS
+include NOTICE
+recursive-include LICENSES *.txt

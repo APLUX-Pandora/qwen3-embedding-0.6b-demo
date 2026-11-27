@@ -1,0 +1,18 @@
+[build-system]
+requires = ["setuptools>=77", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "pandora-qwen3-embedding-0-6b"
+version = "1.0.0"
+description = "Qwen3-Embedding-0.6B text embedding on Qualcomm NPUs"
+requires-python = ">=3.10"
+license-files = ["NOTICE", "LICENSES/*.txt"]
+dependencies = [
+    "numpy>=1.23,<3",
+    "pandora-runtime>=1.0.2,<2",
+    "tokenizers>=0.22,<0.23",
+]
+
+[tool.setuptools.packages.find]
+where = ["python"]
